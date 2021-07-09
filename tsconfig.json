@@ -57,6 +57,12 @@
       "path": "packages/log/tests"
     },
     {
+      "path": "packages/module"
+    },
+    {
+      "path": "packages/module/tests"
+    },
+    {
       "path": "packages/pipeline"
     },
     {
